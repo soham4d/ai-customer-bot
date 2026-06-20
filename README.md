@@ -22,4 +22,4 @@ Guides customers through product selection, handles queries.
 ]
 
 ## Live demo
-[https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/06/04/17/20260604173417-9Z106WXT.json<img width="900" height="400" 
+[ https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/06/04/17/20260604173417-9Z106WXT.json]
