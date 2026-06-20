@@ -1,1 +1,1 @@
-# ai-customer-bo
+# ai-customer-bot
